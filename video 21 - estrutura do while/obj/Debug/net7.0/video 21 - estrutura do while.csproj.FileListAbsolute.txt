@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\bin\Debug\net7.0\video 21 - estrutura do while.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\bin\Debug\net7.0\video 21 - estrutura do while.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\bin\Debug\net7.0\video 21 - estrutura do while.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\bin\Debug\net7.0\video 21 - estrutura do while.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\bin\Debug\net7.0\video 21 - estrutura do while.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\refint\video 21 - estrutura do while.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\video 21 - estrutura do while.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 21 - estrutura do while\obj\Debug\net7.0\ref\video 21 - estrutura do while.dll

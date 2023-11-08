@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\bin\Debug\net7.0\video 17 - operadores logicos.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\bin\Debug\net7.0\video 17 - operadores logicos.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\bin\Debug\net7.0\video 17 - operadores logicos.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\bin\Debug\net7.0\video 17 - operadores logicos.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\bin\Debug\net7.0\video 17 - operadores logicos.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\refint\video 17 - operadores logicos.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\video 17 - operadores logicos.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 17 - operadores logicos\obj\Debug\net7.0\ref\video 17 - operadores logicos.dll

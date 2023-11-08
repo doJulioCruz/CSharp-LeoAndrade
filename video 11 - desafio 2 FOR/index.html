@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula-11 ex-2</title>
+    <style>
+        body {
+            background-color: darkseagreen;
+        }
+        select {
+            background-color: seagreen;
+            font-size: 1.4em;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Tabuada</h1>
+        <p>Insira um Número multiplicador e um Número final!</p>
+            <div>
+                <input type="number" min="1" placeholder="Número Multiplicador" id="multi">
+                <label for="multi">- Nº Multiplicador</label>
+                <br>
+
+                <input type="number" min="5" placeholder="Número Final" id="final" >
+                <label for="final">- Nº Final</label>
+                <br>
+
+                <input type="button" value="Calcular" onclick="calcular()">
+            </div>
+            <br>
+            <div>
+                <select size="10" id="ares">
+                    <option > RESULTADO!</option>
+                </select>
+            </div>
+
+            <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\bin\Debug\net7.0\video 14 - operadores aritmeticos.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\bin\Debug\net7.0\video 14 - operadores aritmeticos.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\bin\Debug\net7.0\video 14 - operadores aritmeticos.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\bin\Debug\net7.0\video 14 - operadores aritmeticos.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\bin\Debug\net7.0\video 14 - operadores aritmeticos.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\refint\video 14 - operadores aritmeticos.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\video 14 - operadores aritmeticos.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 14 - operadores aritmeticos\obj\Debug\net7.0\ref\video 14 - operadores aritmeticos.dll

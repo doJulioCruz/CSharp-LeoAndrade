@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\bin\Debug\net7.0\video 19 - estrutura switch case.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\bin\Debug\net7.0\video 19 - estrutura switch case.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\bin\Debug\net7.0\video 19 - estrutura switch case.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\bin\Debug\net7.0\video 19 - estrutura switch case.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\bin\Debug\net7.0\video 19 - estrutura switch case.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\refint\video 19 - estrutura switch case.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\video 19 - estrutura switch case.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 19 - estrutura switch case\obj\Debug\net7.0\ref\video 19 - estrutura switch case.dll

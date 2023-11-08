@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\bin\Debug\net7.0\video 12b - ex 1.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\bin\Debug\net7.0\video 12b - ex 1.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\bin\Debug\net7.0\video 12b - ex 1.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\bin\Debug\net7.0\video 12b - ex 1.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\bin\Debug\net7.0\video 12b - ex 1.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\refint\video 12b - ex 1.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\video 12b - ex 1.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12b - ex 1\obj\Debug\net7.0\ref\video 12b - ex 1.dll

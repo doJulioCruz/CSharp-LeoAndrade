@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\bin\Debug\net7.0\video 12 - dotnet e C#.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\bin\Debug\net7.0\video 12 - dotnet e C#.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\bin\Debug\net7.0\video 12 - dotnet e C#.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\bin\Debug\net7.0\video 12 - dotnet e C#.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\bin\Debug\net7.0\video 12 - dotnet e C#.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\refint\video 12 - dotnet e C#.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\video 12 - dotnet e C#.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 12 - dotnet e C#\obj\Debug\net7.0\ref\video 12 - dotnet e C#.dll

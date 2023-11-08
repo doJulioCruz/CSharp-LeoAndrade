@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\bin\Debug\net7.0\video 20- estrutura while.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\bin\Debug\net7.0\video 20- estrutura while.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\bin\Debug\net7.0\video 20- estrutura while.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\bin\Debug\net7.0\video 20- estrutura while.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\bin\Debug\net7.0\video 20- estrutura while.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\refint\video 20- estrutura while.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\video 20- estrutura while.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 20- estrutura while\obj\Debug\net7.0\ref\video 20- estrutura while.dll

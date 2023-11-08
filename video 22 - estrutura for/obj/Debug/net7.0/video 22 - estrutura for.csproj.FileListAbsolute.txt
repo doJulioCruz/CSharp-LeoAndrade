@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\bin\Debug\net7.0\video 22 - estrutura for.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\bin\Debug\net7.0\video 22 - estrutura for.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\bin\Debug\net7.0\video 22 - estrutura for.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\bin\Debug\net7.0\video 22 - estrutura for.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\bin\Debug\net7.0\video 22 - estrutura for.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\refint\video 22 - estrutura for.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\video 22 - estrutura for.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 22 - estrutura for\obj\Debug\net7.0\ref\video 22 - estrutura for.dll

@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\bin\Debug\net7.0\video 16 - operadores relacionais.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\bin\Debug\net7.0\video 16 - operadores relacionais.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\bin\Debug\net7.0\video 16 - operadores relacionais.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\bin\Debug\net7.0\video 16 - operadores relacionais.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\bin\Debug\net7.0\video 16 - operadores relacionais.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\refint\video 16 - operadores relacionais.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\video 16 - operadores relacionais.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 16 - operadores relacionais\obj\Debug\net7.0\ref\video 16 - operadores relacionais.dll

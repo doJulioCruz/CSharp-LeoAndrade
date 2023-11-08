@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "video 19 - estrutura switch case/1.0.0": {
+        "runtime": {
+          "video 19 - estrutura switch case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "video 19 - estrutura switch case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

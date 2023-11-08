@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "video 12b - ex 1/1.0.0": {
+        "runtime": {
+          "video 12b - ex 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "video 12b - ex 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\bin\Debug\net7.0\video 18 - estruturas de decisao.exe
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\bin\Debug\net7.0\video 18 - estruturas de decisao.deps.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\bin\Debug\net7.0\video 18 - estruturas de decisao.runtimeconfig.json
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\bin\Debug\net7.0\video 18 - estruturas de decisao.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\bin\Debug\net7.0\video 18 - estruturas de decisao.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.AssemblyInfo.cs
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\refint\video 18 - estruturas de decisao.dll
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.pdb
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\video 18 - estruturas de decisao.genruntimeconfig.cache
+C:\Users\julio\Documents\projetoaprendiz\HTML-CSS-JS\js Léo Andrade\video 18 - estruturas de decisao\obj\Debug\net7.0\ref\video 18 - estruturas de decisao.dll
